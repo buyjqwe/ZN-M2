@@ -13,7 +13,7 @@
 name: 同步源码更新
 
 env:
-  REPO_URL: https://github.com/lede-project/source.git
+  REPO_URL: https://github.com/coolsnowwolf/lede.git
   REPO_BRANCH: main
 
 on:
