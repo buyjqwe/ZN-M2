@@ -1816,7 +1816,7 @@ CONFIG_PACKAGE_kmod-crypto-pcompress=y
 # CONFIG_PACKAGE_kmod-crypto-xcbc is not set
 # CONFIG_PACKAGE_kmod-crypto-xts is not set
 CONFIG_PACKAGE_kmod-cryptodev=y
-# CONFIG_PACKAGE_kmod-qca-nss-crypto is not set
+CONFIG_PACKAGE_kmod-qca-nss-crypto=y
 
 #
 # Filesystems
@@ -6180,7 +6180,7 @@ CONFIG_PACKAGE_libjson-script=y
 # CONFIG_PACKAGE_netwhere is not set
 # CONFIG_PACKAGE_nnn is not set
 # CONFIG_PACKAGE_nsenter is not set
-# CONFIG_PACKAGE_nss-utils is not set
+CONFIG_PACKAGE_nss-utils=y
 # CONFIG_PACKAGE_nsutils is not set
 # CONFIG_PACKAGE_oath-toolkit is not set
 # CONFIG_PACKAGE_oci-runtime-tool is not set
